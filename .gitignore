@@ -3,3 +3,5 @@ node_modules/
 !.env.example
 test-results/
 playwright-report/
+AGENTS.md
+CLAUDE.md
