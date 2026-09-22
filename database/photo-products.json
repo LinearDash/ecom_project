@@ -1,0 +1,162 @@
+[
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be301",
+    "name": "Classic spiral notebook",
+    "category": "Notebooks",
+    "price": 350,
+    "stock": 25,
+    "description": "A spiral-bound notebook for class notes, to-do lists, and everyday ideas. Notebook only; other stationery in the photo is for display.",
+    "image_url": "https://images.unsplash.com/photo-1584628805114-3e1d90e0bfed?auto=format&fit=crop&w=900&q=80",
+    "source_url": "https://unsplash.com/photos/black-spiral-notebook-with-pencils-edWz3EYB3qQ"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be302",
+    "name": "Everyday writing set",
+    "category": "Writing",
+    "price": 420,
+    "stock": 20,
+    "description": "A handy notebook, pencil, and pen set for study sessions and daily writing. Electronic accessories shown in the photo are not included.",
+    "image_url": "https://images.unsplash.com/photo-1743385779392-cab22721fac6?auto=format&fit=crop&w=900&q=80",
+    "source_url": "https://unsplash.com/photos/notebook-and-writing-supplies-on-wooden-surface-cGGCg7quYn0"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be303",
+    "name": "Artist colored pencil set",
+    "category": "Art supplies",
+    "price": 550,
+    "stock": 18,
+    "description": "A colorful pencil set for sketches, coloring, and creative class projects. A bright addition to your everyday art supplies.",
+    "image_url": "https://images.unsplash.com/photo-1642381366431-02da4fbaaffe?auto=format&fit=crop&w=900&q=80",
+    "source_url": "https://unsplash.com/photos/a-row-of-colored-pencils-sitting-next-to-each-other-G7Cp7o_cfA8"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be304",
+    "name": "Red zip pencil pouch",
+    "category": "Desk essentials",
+    "price": 290,
+    "stock": 22,
+    "description": "A simple red zip pouch to keep pens, pencils, and small stationery together. Pouch only; the writing tools pictured are for display.",
+    "image_url": "https://images.unsplash.com/photo-1517237284472-3b62e4863e4b?auto=format&fit=crop&w=900&q=80",
+    "source_url": "https://unsplash.com/photos/red-and-black-pen-on-white-surface-NP-ANwG4gI8"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be305",
+    "name": "Rose & sunshine notebook",
+    "category": "Notebooks",
+    "price": 390,
+    "stock": 18,
+    "description": "A bright pastel notebook for lists, reflections, and the small ideas worth keeping close.",
+    "image_url": "https://images.unsplash.com/photo-1682977690252-2df0f6ccc9ff?auto=format&fit=crop&w=900&q=80",
+    "source_url": "https://unsplash.com/photos/a-pink-and-yellow-notebook-with-a-pen-on-top-of-it-9q7rsEm_jjI"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be306",
+    "name": "Open desk journal",
+    "category": "Notebooks",
+    "price": 460,
+    "stock": 15,
+    "description": "A calm, lined journal for planning a week, capturing a thought, or starting a new page.",
+    "image_url": "https://images.unsplash.com/photo-1722929309984-c6b3e55dd6e5?auto=format&fit=crop&w=900&q=80",
+    "source_url": "https://unsplash.com/photos/an-open-notebook-with-a-pen-and-pencil-on-a-table-y_XVFOh1b_k"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be307",
+    "name": "Rainbow pencil row",
+    "category": "Art supplies",
+    "price": 620,
+    "stock": 20,
+    "description": "A colorful pencil collection for shading, lettering, and creative projects that need a little color.",
+    "image_url": "https://images.unsplash.com/photo-1642381367186-591f99bd8910?auto=format&fit=crop&w=900&q=80",
+    "source_url": "https://unsplash.com/photos/a-row-of-colored-pencils-sitting-next-to-each-other-NXxSe31j068"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be308",
+    "name": "Color pencil cup",
+    "category": "Art supplies",
+    "price": 580,
+    "stock": 14,
+    "description": "A cheerful colored-pencil set for sketching, coloring, and making a desk feel more alive.",
+    "image_url": "https://images.unsplash.com/photo-1593171333952-6a8da72d1877?auto=format&fit=crop&w=900&q=80",
+    "source_url": "https://unsplash.com/photos/a-group-of-colored-pencils-sitting-in-a-cup--MDJDYKQz6E"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be309",
+    "name": "Ready-to-write workspace",
+    "category": "Desk essentials",
+    "price": 780,
+    "stock": 10,
+    "description": "A practical desk set inspired by an organized workspace: keep your paper, pencil, and pen within reach.",
+    "image_url": "https://images.unsplash.com/photo-1743385779499-076d13d4cfcf?auto=format&fit=crop&w=900&q=80",
+    "source_url": "https://unsplash.com/photos/notebook-pens-pencil-and-coffee-ready-to-write-VUZZs_uzJok"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be310",
+    "name": "Minimal desk pencil case",
+    "category": "Desk essentials",
+    "price": 440,
+    "stock": 16,
+    "description": "A compact pencil case for carrying the tools you reach for every day, from class to coffee shop.",
+    "image_url": "https://images.unsplash.com/photo-1517237284472-3b62e4863e4b?auto=format&fit=crop&w=900&q=80",
+    "source_url": "https://unsplash.com/photos/red-and-black-pen-on-white-surface-NP-ANwG4gI8"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be311",
+    "name": "Gray multi-slot organizer",
+    "category": "Desk essentials",
+    "price": 980,
+    "stock": 9,
+    "description": "A multi-slot organizer for pens, clips, notes, and the small tools that make a desk work better.",
+    "image_url": "https://i.etsystatic.com/58073443/r/il/bc690b/7800775581/il_fullxfull.7800775581_hduy.jpg",
+    "source_url": "https://www.etsy.com/de/market/ordnungssystem_b%C3%BCro"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be312",
+    "name": "Clear drawer organizer",
+    "category": "Desk essentials",
+    "price": 1250,
+    "stock": 7,
+    "description": "A tidy compartment organizer with drawers for sticky notes, clips, and everyday desk accessories.",
+    "image_url": "https://i5.walmartimages.com/seo/Desk-Organizer-2-Drawer-Multi-Compartment-5-Slot-Storage-Modern-Office-Design-Home-Study-Workstation-Supply-Holder-Metal-Frame-Acrylic-Compartments-O_d31a4ffa-7127-4386-93d7-1023ee0737ee.ca9bca7086a888a89543347b52a33416.jpeg",
+    "source_url": "https://www.walmart.com/ip/16908563622"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be313",
+    "name": "Aqua drops pencil box",
+    "category": "Desk essentials",
+    "price": 530,
+    "stock": 12,
+    "description": "A compact pencil box with room for the essentials, designed to keep your creative tools visible and easy to reach.",
+    "image_url": "https://desknestco.com/assets/images/products/lihit-lab-aqua-drops-pencil-box/lihit-lab-aqua-drops-pencil-box-1.webp",
+    "source_url": "https://desknestco.com/products/lihit-lab-aqua-drops-pencil-box.html"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be314",
+    "name": "School day stationery stand",
+    "category": "Desk essentials",
+    "price": 690,
+    "stock": 11,
+    "description": "A practical stationery stand with separate spaces for pencils, tape, scissors, and notes.",
+    "image_url": "https://contents.palcloset.jp/static/images/item/696887_2896574_1.jpg",
+    "source_url": "https://www.palcloset.jp/addons/pal/blog/detail/?article_id=1051027&b=3coins"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be315",
+    "name": "Ivory stepped pen stand",
+    "category": "Writing",
+    "price": 360,
+    "stock": 19,
+    "description": "A stepped pen stand that keeps favorite pens, pencils, and a ruler upright and easy to find.",
+    "image_url": "https://shop.r10s.jp/livingut/cabinet/maker_sonic2/472679.jpg",
+    "source_url": "https://item.rakuten.co.jp/livingut/472679/"
+  },
+  {
+    "id": "111e8470-ec77-45f4-8e10-8315681be316",
+    "name": "Warm leather desk box",
+    "category": "Desk essentials",
+    "price": 1350,
+    "stock": 6,
+    "description": "A warm-toned storage box for pens, scissors, tape, and the everyday pieces that deserve a home.",
+    "image_url": "https://contents.palcloset.jp/static/images/item/476389_1856447_1.jpg",
+    "source_url": "https://www.palcloset.jp/display/item/S-2301-E53385-0/"
+  }
+]
